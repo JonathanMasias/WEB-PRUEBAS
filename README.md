@@ -1,2 +1,2 @@
 # WEB-PRUEBAS
-Este es una prueba de Pruebas
+Este es una proyecto de Pruebas
